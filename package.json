@@ -1,0 +1,21 @@
+{
+  "name": "breeze-light",
+  "displayName": "Breeze Light",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Breeze Light",
+        "uiTheme": "vs",
+        "path": "./themes/Breeze Light-color-theme.json"
+      }
+    ]
+  }
+}
